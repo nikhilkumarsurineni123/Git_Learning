@@ -5,3 +5,4 @@ third line
 5th line
 6 th line
 Hello from feature branch!
+This line was changed on master
