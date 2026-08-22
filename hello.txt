@@ -4,5 +4,5 @@ third line
 4th Line
 5th line
 6 th line
-Hello from feature branch!
+Hello from FEATURE branch - updated!
 This line was changed on master
