@@ -7,3 +7,4 @@ third line
 Hello from FEATURE branch - updated!
 This line was changed on master
 Learning Git remotes
+My first GitHub change
