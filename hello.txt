@@ -6,3 +6,4 @@ third line
 6 th line
 Hello from FEATURE branch - updated!
 This line was changed on master
+Learning Git remotes
