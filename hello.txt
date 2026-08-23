@@ -10,3 +10,4 @@ Learning Git remotes
 My first GitHub change
 Change made directly from GitHub
 Local developer change
+Remote developer change
